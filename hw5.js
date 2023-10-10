@@ -1,4 +1,4 @@
-let a = prompt("Вкажіть ваш вік");
+let a = prompt("Вкажіть Bаш вік");
 
 let age = "i"
 let count = age
