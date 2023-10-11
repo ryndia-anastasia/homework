@@ -1,7 +1,6 @@
-let age = prompt("Вкажіть ваш вік");
-age = 18
+let age = prompt("Вкажіть Ваш вік");
+age = 19
 let count = age
-//console.log("count = ", count);
 
 let result = ""
 
