@@ -18,16 +18,21 @@ while (str.length<=5){
 
 //Вивести на екран суму чисел від 1 до 100 включно, які не кратні 3.
 
-/*for (let a = 0; a <=100 ; a++) {
+/*let sum = 0;
+for (let a = 0; a <=100 ; a++) {
     if (a % 3 === 0) {
         continue;
-    }
-    console.log(a);
-}*/
+    } sum = sum + a;}
+console.log(sum)*/
 
 //Написати функцію pow(x,y) яка буде приймати 2 цисла,
 // перше це число яке ми будемо зводити у ступінь, друге у яку ступінь.
 
-/*let result = Math.pow(2, 3);
-console.log(result);
-*/
+/*function Exponents (number, degree) {
+    let result = 1;
+    for (i = 0; i < degree; i++) {
+        result *= number;
+    }
+    return result;}
+result = Exponents(2, 2);
+console.log(result)*/
