@@ -1,5 +1,5 @@
-let measurementUnit = "кілометри";
-let amount = 10;
+let measurementUnit = "години";
+let amount = 1;
 
 switch (measurementUnit) {
     case "кілометри" :
